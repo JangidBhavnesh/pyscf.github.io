@@ -8,19 +8,19 @@ The **PySCF Virtual Seminar Series** is a monthly forum where PySCF developers c
 - [Calendar Invite form](https://forms.gle/Potn9vEzK4r5EBqu9). 
 
 # Upcoming Talk    
-**Date:** **April 17th, 2026, 10:30 AM CT**  
-**Title:** **"Perturbative Methods for Excited States and Spectroscopy"**  
-**Presenter:** **Sokolov Group, The Ohio State University**  
+**Date:** **May 15th, 2026, 10:30 AM CT**  
+**Title:** **"PySCF-MRCC interface: Platinum standard electronic structure calculations with arbitrary Hamiltonians"**  
+**Presenter:** **Nike Dattani and Jaafar Mehrez, Nike Dattani Group, HPQC Lab**  
 **[Meeting link:](https://uchicago.zoom.us/j/95914848678?pwd=B5eX3uxDUQYc3oD32z6aB74d9Fwobc.1)**  
 
 # Entire Schedule
 
 | Talk no. | Zoom link | Presenter | Date Time | Title | Institute |
 |---|---|---|---|---|---|
-| 9 | Zoom Link | Dr. Jincheng Yu | Jul 17th, 2026, 10:30 AM CT | Correlation-Consistent Gaussian Basis Sets for Solids | University of Maryland, College Park |
+| 9 | [Zoom Link](https://uchicago.zoom.us/j/96118714178?pwd=XYfBgjNtauADASgMw9yXqoe4nO7wo9.1) | Dr. Jincheng Yu | Jul 17th, 2026, 10:30 AM CT | Correlation-Consistent Gaussian Basis Sets for Solids | University of Maryland, College Park |
 | 8 | [Zoom Link](https://uchicago.zoom.us/j/99153958018?pwd=eolXCOQ8CQdNlFgbcPCWfOkSQQh5UB.1) | Dr. Jiachen Li | Jun 19th, 2026, 10:30 AM CT | particle-particle Random Phase Approximation in PySCF for Excited States of Molecules and Defects | Yale University |
 | 7 | [Zoom Link](https://uchicago.zoom.us/j/93078303511?pwd=dnSuzRTfo31lx9lb9DEVxbk2QjhS06.1) | Dr. Nike Dattani and Jaafar Mehrez | May 15th, 2026, 10:30 AM CT | PySCF-MRCC interface: Platinum standard electronic structure calculations with arbitrary Hamiltonians | HPQC LABS |
-| 6 | [Zoom Link](https://uchicago.zoom.us/j/95914848678?pwd=B5eX3uxDUQYc3oD32z6aB74d9Fwobc.1) | Sokolov Group | April 17th, 2026, 10:30 AM CT | Perturbative Methods for Excited States and Spectroscopy | The Ohio State University |
+| 6 | Zoom Link | Sokolov Group | April 17th, 2026, 10:30 AM CT | Perturbative Methods for Excited States and Spectroscopy<br>[See this for detailed examples](https://github.com/sokolov-group/pyscf_talk_examples)| The Ohio State University |
 | 5 | Zoom Link | Rui Li | Mar 20th, 2026, 10:30 AM CT | Integration of the multigrid algorithm for efficient Fock build in PySCF with GPU acceleration | Caltech |
 | 4 | Zoom Link | Valay Agarawal | Feb 20th, 2026, 10:30 AM CT | Vendor independent GPU acceleration of multireference calculations with PySCF | Gagliardi Group, University of Chicago |
 | 3 | Zoom Link | Bhavnesh Jangid | Jan 16th, 2026, 10:30 AM CT | Multi-configuration state interaction methods in PySCF | Gagliardi Group, University of Chicago |
